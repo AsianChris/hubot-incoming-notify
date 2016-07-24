@@ -1,0 +1,18 @@
+{
+  "name": "hubot-incoming-notify",
+  "version": "0.0.0",
+  "description": "",
+  "main": "notify.js",
+  "dependencies": {
+    "commander": "~2.9.0",
+    "node-rest-client": "~2.0.1",
+    "promise": "~7.1.1",
+    "yargs": "~4.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}
